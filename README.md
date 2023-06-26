@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/df31uj7cvd1g2m6u?svg=true)](https://ci.appveyor.com/project/Evgenia-Vl/bdd)
+
 Домашнее задание к занятию «2.4. BDD»
 В качестве результата пришлите ссылки на ваши GitHub-проекты в личном кабинете студента на сайте netology.ru.
 
